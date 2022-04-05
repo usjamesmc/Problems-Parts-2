@@ -1,2 +1,2 @@
-# Problems-Parts-2
+# Problems-Part-2
 Problem Solving Worksheet 2
